@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const grid = document.getElementById("colorGrid");
         grid.innerHTML = `
             <div style="grid-column: span 3; text-align: center;">
-            <h2>🎉 ¡Felicidades</h2>
+            <h2>🎉 ¡Felicidades!</h2>
             <p>Has emparejado todos los colores posibles.</p>
             <button id="restartBtn" class="btn">Reiniciar juego</button>
             </div>
